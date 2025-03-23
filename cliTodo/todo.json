@@ -1,0 +1,16 @@
+{
+    "todos": [
+        {
+            "todo": "Iamroopnayansingh",
+            "doneStatus": true
+        },
+        {
+            "todo": "Iamroopnayan",
+            "doneStatus": false
+        },
+        {
+            "todo": "Iamroop",
+            "doneStatus": false
+        }
+    ]
+}
