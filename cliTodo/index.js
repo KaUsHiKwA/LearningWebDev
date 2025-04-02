@@ -9,7 +9,7 @@ function createTodo(todo) {
 }
 
 program
-    .name('counter')
+    .name('ToDoApp')
     .description('CLI to do file based tasks')
     .version('0.8.0');
 
